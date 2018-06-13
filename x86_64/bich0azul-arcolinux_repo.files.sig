@@ -1,0 +1,1 @@
+bich0azul-arcolinux_repo.files.tar.gz.sig
