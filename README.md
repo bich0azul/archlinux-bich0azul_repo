@@ -1,2 +1,2 @@
-# bich0azul-arcolinux_repo2
+# bich0azul-arcolinux_repo
 Personal repo
